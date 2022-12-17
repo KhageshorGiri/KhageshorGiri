@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Khageshor Giri</h1>
 <h3 align="center">A passionate Software Developer from Nepal.</h3>
 
-- 🌱 I’m currently learning **Software Development in ASP.Net Technology**
+- 🌱 I’m currently learning **Software Development**
 - 👀 I’m interested in **Artifical Intelligance, Machine Learingin, Deep Learning, Robotics**
 - 💬 Ask me about **asp.net, software development**
 - 📫 How to reach me **girikhageshor2432@gmail.com**
