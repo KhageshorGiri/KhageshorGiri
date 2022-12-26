@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Software Development**
 - 👀 I’m interested in **Artifical Intelligance, Machine Learingin, Deep Learning, Robotics**
-- 💬 Ask me about **asp.net, software development**
+- 💬 Ask me about **......**
 - 📫 How to reach me **girikhageshor2432@gmail.com**
 
 - 📄 Know about my experiences [Software Developer with more than 2 years of experience. I worked on projects at different scales.](Software Developer with more than 2 years of experience. I worked on projects at different scales.)
