@@ -5,12 +5,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Khageshor Giri</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently working as a **Full Stack Software Developer**
 - 👀 I’m interested in **Artifical Intelligance, Machine Learingin, Deep Learning, Robotics**
 - 💬 Ask me about **......**
 - 📫 How to reach me **girikhageshor2432@gmail.com**
 
-- 📄 Know about my experiences [Software Developer with more than 2 years of experience. I worked on projects at different scales.](Software Developer with more than 2 years of experience. I worked on projects at different scales.)
 
 - ⚡ Fun fact **Write a code that put smile in others face.**
 
