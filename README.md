@@ -3,12 +3,10 @@ KhageshorGiri/KhageshorGiri is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 style="font-weight:600;">👋 Hi, I'm <span style="color:#0078D4;">Khageshor Giri</span></h1>
-<h3 style="font-weight:500;">A Passionate Full Stack Software Developer</h3>
+<h1>Hi 👋, I'm Khageshor Giri</h1>
+Just a developer obsessed with building scalable systems, mastering architecture and performance, and exploring how software truly works — from low-level concurrency to intelligent, event-driven design.
 
----
-
-### Fun Fact
+#### Fun Fact
 
 <ul>
   <li>Learning <strong>C#, .NET, Software Architecture, Design Patterns,</strong> and <strong>Performance Optimization</strong></li>
