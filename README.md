@@ -9,7 +9,7 @@ Just a developer obsessed with building scalable systems, mastering architecture
 #### Fun Fact
 
 <ul>
-  <li>Learning <strong>C#, .NET, Software Architecture, Design Patterns,</strong> and <strong>Performance Optimization</strong></li>
+  <li>Learning <strong>C#, .NET, Software Architecture, System Desing,</strong> and <strong>Performance Optimization</strong></li>
   <li>Interested in <strong>Software Development</strong>, <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Robotics</strong></li>
   <li>I love turning complex problems into clean and efficient solutions.</li>
 </ul>
